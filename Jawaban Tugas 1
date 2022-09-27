@@ -1,0 +1,36 @@
+Nama	: Rizky Tri Wibowo
+Kelas	: 5 MIO
+NIM	: 062040830529
+MK	: Prak.Rekayasa Web
+
+1.	Apa itu Git dan kegunaanya?
+Jawab: Git adalah sistem kendali versi terdistribusi, yang berarti semua codebase dan riwayat kode akan tersedia di komputer setiap developer untuk memudahkan pembuatan branch dan penggabungan. Git dikembangkan oleh Linus Torvalds pada tahun 2005, dan merupakan inti atau jantung GitHub. Tujuan penggunaan GIT yakni untuk mengelola versi source code program dengan menentukan baris serta kode yang akan ditambahkan atau diganti.
+
+2.	Apa itu Github dan kegunaanya?
+Jawab: GitHub adalah manajemen proyek dan sistem versioning code sekaligus platform jaringan sosial yang dirancang khusus bagi para developer dam programmer. Singkatnya GitHub ini seperti media sosialnya para developer dan programmer untuk berbagi aktivitas mereka seperti melakukan penambahan kode atau perubahan kode.Mengutip Tech Target, Microsoft menjadi kontributor terbesar untuk GitHub, memulai akuisisi GitHub  sebesar 7,5 miliar dolar AS pada Juni 2018.  GitHub, yang dikirimkan melalui model bisnis software-as-a-service (SaaS) dimulai pada 2008.
+GitHub digunakan untuk menyimpan source code untuk suatu proyek dan melacak riwayat lengkap semua perubahan kode itu. Ini memungkinkan pengguna untuk berkolaborasi dalam proyek secara lebih efektif dengan menyediakan alat untuk mengelola perubahan yang mungkin bertentangan dari beberapa pengembang. 
+Di dalam GitHub pengguna juga bisa mengubah, mengadaptasi, dan meningkatkan perangkat lunak dari repositori publiknya secara gratis. Namun, GitHub mengenakan biaya untuk repositori pribadi, menawarkan berbagai paket berbayar. Setiap repositori publik atau pribadi berisi semua file proyek, riwayat revisi setiap file. Repositori memiliki banyak kolaborator publik atau pribadi. Fungsinya sebagai berikut.
+1.	Media kerjasama antar programmer dan developer di seluruh dunia dalam mengembangkan atau melacak suatu proyek.
+2.	Mengatur perubahan source kode dengan cara memberi tanda baris pada kode mana yang telah ditambah atau diganti.
+
+3.	Sebutkan istilah-istilah yang ada di Git dan jelaskan masing-masing istilah tersebut!
+Jawab:
+•	Repository adalah database yang menyimpan history/riwayat perubahan
+•	Snapshot  adalah kondisi file dan folder pada saat tertentu
+•	Commit adalah snapshot yang disimpan di repository
+•	Branch adalah serangkaian commit yang berkaitan sehingga kalau digambar seperti garis lurus berisi banyak commit. Satu repository bisa berisi banyak branch
+•	Master adalah nama branchdefault yang diberikan git pada waktu kita membuat repository. Branch master ini tidak istimewa. Dia bisa dihapus dan direname sesuka hati.
+•	Head  adalah ujung branch, commit terbaru di dalam branch.
+•	HEAD adalah Head yang sedang aktif. Walaupun satu repository bisa memiliki banyak branch, tapi Cuma satu yang aktif.
+•	Working Folder adalah folder berisi file dan folder tempat kita bekerja. Biasanya working folder berisi banyak file source code untuk aplikasi yang sedang kita buat. Git memantau working folder ini, dan bisa mengetahui file dan folder mana yang sudah berbeda dari posisi commit terkahir. Perbedaan atau perubahan ini bisa disimpan menjadi commit baru, atau dikembalikan ke kondisi sebelum diubah.
+•	Staging Area adalah snapshot dari working folder yang akan kita simpan pada saat commit. Ini adalah fitur unik Git yang tidak dimiliki version control lain. Dengan adanya staging area, kita bisa memilih perubahan mana yang akan di commit dan mana yang tidak.
+•	Object Store adalah tempat semua commit disimpan
+
+4.	Sebutkan layanan selain github!
+Jawab: 
+- SourceForge 
+- CodePlex 
+- BitBucket 
+- GitLab 
+- BeanStalk 
+- Google Cloud Source 
